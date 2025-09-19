@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Classic Haircut",
     "description": "Traditional men's haircut with scissor work and styling. Includes wash and finish.",
-    "price": "$35",
+    "price": "RM35",
     "duration": "45 min",
     "image": "/images/classic-cut.jpg",
     "category": "Haircuts"
@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Fade Cut",
     "description": "Modern fade haircut with precision clipper work. Various fade styles available.",
-    "price": "$40",
+    "price": "RM40",
     "duration": "50 min",
     "image": "/images/fade-cut.jpg",
     "category": "Haircuts"
@@ -21,7 +21,7 @@
     "id": 3,
     "name": "Beard Trim & Shape",
     "description": "Professional beard trimming and shaping to complement your face structure.",
-    "price": "$25",
+    "price": "RM25",
     "duration": "30 min",
     "image": "/images/beard-trim.jpg",
     "category": "Beard Services"
@@ -30,7 +30,7 @@
     "id": 4,
     "name": "Hot Towel Shave",
     "description": "Traditional straight razor shave with hot towel treatment. Ultimate relaxation.",
-    "price": "$45",
+    "price": "RM45",
     "duration": "60 min",
     "image": "/images/hot-shave.jpg",
     "category": "Shaving"
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "Hair & Beard Combo",
     "description": "Complete grooming package including haircut and beard trim.",
-    "price": "$55",
+    "price": "RM55",
     "duration": "75 min",
     "image": "/images/combo.jpg",
     "category": "Packages"
@@ -48,7 +48,7 @@
     "id": 6,
     "name": "Kids Haircut",
     "description": "Gentle and fun haircut experience for children under 12.",
-    "price": "$25",
+    "price": "RM25",
     "duration": "30 min",
     "image": "/images/kids-cut.jpg",
     "category": "Haircuts"

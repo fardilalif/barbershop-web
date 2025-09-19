@@ -45,7 +45,7 @@ const Jobs = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold text-gray-900 mb-4">Join Our Team</h1>
-          <p className="text-lg text-gray-600">Exciting career opportunities at Classic Cuts Barbershop</p>
+          <p className="text-lg text-gray-600">Exciting career opportunities at Amin Barbershop</p>
         </div>
 
         {/* Job Type Filter */}
@@ -154,7 +154,7 @@ const Jobs = () => {
             We're always looking for talented individuals to join our team. Feel free to reach out even if you don't see a specific opening that matches your skills.
           </p>
           <Button size="lg" onClick={() => {
-            const message = "Hi! I'm interested in career opportunities at Classic Cuts. Could you please let me know about any upcoming openings?"
+            const message = "Hi! I'm interested in career opportunities at Amin Barbershop. Could you please let me know about any upcoming openings?"
             const whatsappUrl = `https://wa.me/+60103802579?text=${encodeURIComponent(message)}`
             window.open(whatsappUrl, '_blank')
           }}>

@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Premium Hair Wax",
     "description": "Strong hold styling wax for all hair types. Perfect for modern gentleman's style.",
-    "price": "$25.99",
+    "price": "RM25.99",
     "image": "/images/hair-wax.jpg",
     "category": "Styling",
     "inStock": true
@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Beard Oil",
     "description": "Nourishing beard oil with natural ingredients. Keeps your beard soft and healthy.",
-    "price": "$18.50",
+    "price": "RM18.50",
     "image": "/images/beard-oil.jpg",
     "category": "Beard Care",
     "inStock": true
@@ -21,7 +21,7 @@
     "id": 3,
     "name": "Hair Pomade",
     "description": "Classic pomade for sleek, professional styling. Water-based formula.",
-    "price": "$22.00",
+    "price": "RM22.00",
     "image": "/images/pomade.jpg",
     "category": "Styling",
     "inStock": false
@@ -30,7 +30,7 @@
     "id": 4,
     "name": "Aftershave Balm",
     "description": "Soothing aftershave balm that prevents irritation and moisturizes skin.",
-    "price": "$16.75",
+    "price": "RM16.75",
     "image": "/images/aftershave.jpg",
     "category": "Shaving",
     "inStock": true
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "Styling Gel",
     "description": "Extra strong hold gel for structured hairstyles. Long-lasting formula.",
-    "price": "$15.99",
+    "price": "RM15.99",
     "image": "/images/gel.jpg",
     "category": "Styling",
     "inStock": true
@@ -48,7 +48,7 @@
     "id": 6,
     "name": "Beard Trimmer",
     "description": "Professional-grade beard trimmer with multiple length settings.",
-    "price": "$89.99",
+    "price": "RM89.99",
     "image": "/images/trimmer.jpg",
     "category": "Tools",
     "inStock": true

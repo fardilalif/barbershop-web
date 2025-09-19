@@ -11,7 +11,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl md:text-6xl font-bold mb-6">
-              Classic Cuts Barbershop
+              Amin Barbershop
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-gray-300">
               Where tradition meets modern style
@@ -32,7 +32,7 @@ const Home = () => {
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Choose Classic Cuts?</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Choose Amin Barbershop?</h2>
             <p className="text-lg text-gray-600">Experience the best in traditional and modern barbering</p>
           </div>
           
@@ -88,8 +88,8 @@ const Home = () => {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-600 mb-2">123 Main Street</p>
-                <p className="text-gray-600 mb-4">Downtown, City 12345</p>
+                <p className="text-gray-600 mb-2">Jalan Sultan Idris Shah</p>
+                <p className="text-gray-600 mb-4">Ipoh, Perak, Malaysia</p>
                 <Button asChild variant="outline">
                   <a href="https://maps.google.com" target="_blank" rel="noopener noreferrer">
                     Get Directions

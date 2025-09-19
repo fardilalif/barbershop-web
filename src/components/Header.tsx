@@ -29,7 +29,7 @@ const Header = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2" onClick={closeMobileMenu}>
               <Scissors className="h-8 w-8 text-white" />
-              <span className="text-xl font-bold">Classic Cuts</span>
+              <span className="text-xl font-bold">Amin Barbershop</span>
             </Link>
           </div>
           
