@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Barber",
+    "location": "Main Location",
+    "type": "Full-time",
+    "experience": "3+ years",
+    "description": "We're looking for an experienced barber to join our team. Must be skilled in classic cuts, fades, and beard trimming.",
+    "requirements": [
+      "Valid barber license",
+      "3+ years of experience",
+      "Excellent customer service skills",
+      "Knowledge of classic and modern techniques",
+      "Ability to work weekends"
+    ],
+    "benefits": [
+      "Competitive salary + tips",
+      "Health insurance",
+      "Paid vacation",
+      "Professional development opportunities",
+      "Commission-based earning potential"
+    ],
+    "posted": "2024-01-15"
+  },
+  {
+    "id": 2,
+    "title": "Junior Barber / Apprentice",
+    "location": "Main Location",
+    "type": "Full-time",
+    "experience": "Entry level",
+    "description": "Perfect opportunity for someone starting their barbering career or recent barber school graduate.",
+    "requirements": [
+      "Barber school certificate or apprentice permit",
+      "Eagerness to learn",
+      "Good communication skills",
+      "Professional appearance",
+      "Flexible schedule"
+    ],
+    "benefits": [
+      "Training provided",
+      "Competitive starting salary",
+      "Tips",
+      "Growth opportunities",
+      "Mentorship program"
+    ],
+    "posted": "2024-01-10"
+  },
+  {
+    "id": 3,
+    "title": "Receptionist / Front Desk",
+    "location": "Main Location",
+    "type": "Part-time",
+    "experience": "1+ years",
+    "description": "Friendly and organized individual to manage appointments, greet customers, and handle front desk operations.",
+    "requirements": [
+      "1+ year customer service experience",
+      "Strong communication skills",
+      "Computer literacy",
+      "Professional demeanor",
+      "Multitasking abilities"
+    ],
+    "benefits": [
+      "Flexible hours",
+      "Competitive hourly rate",
+      "Employee discounts",
+      "Friendly work environment",
+      "Training provided"
+    ],
+    "posted": "2024-01-05"
+  }
+]
