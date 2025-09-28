@@ -3,6 +3,7 @@
 # Classic Cuts Barbershop Website
 
 This workspace contains a React TypeScript website for a barbershop built with:
+
 - React 18 + TypeScript
 - Vite for build tooling
 - Tailwind CSS + shadcn/ui for styling

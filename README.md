@@ -23,16 +23,19 @@ A modern, responsive static website for a barbershop built with React, TypeScrip
 ## Getting Started
 
 1. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 2. **Start development server**
+
    ```bash
    npm run dev
    ```
 
 3. **Build for production**
+
    ```bash
    npm run build
    ```
@@ -66,12 +69,16 @@ src/
 ## Customization
 
 ### WhatsApp Integration
+
 Update the phone number in the WhatsApp links throughout the application:
+
 - Change `+60103802579` to your actual WhatsApp business number
 - Update the message templates as needed
 
 ### Business Information
+
 Update the following in the code:
+
 - Business name and location in `src/pages/Home.tsx`
 - Operating hours
 - Services and pricing in `src/data/services.json`
@@ -79,7 +86,9 @@ Update the following in the code:
 - Job listings in `src/data/jobs.json`
 
 ### Styling and Theme
+
 The website uses a black and white color scheme suitable for a barbershop:
+
 - Primary colors: Black (#000000) and White (#FFFFFF)
 - The theme can be customized in `tailwind.config.js`
 - CSS variables are defined in `src/index.css`
@@ -103,6 +112,7 @@ The website is built as a static site and can be deployed to any static hosting 
 3. Configure your hosting service to serve `index.html` for all routes (SPA mode)
 
 Popular hosting options:
+
 - Vercel
 - Netlify
 - GitHub Pages

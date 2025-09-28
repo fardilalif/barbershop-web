@@ -1,70 +1,70 @@
 [
   {
     "id": 1,
-    "title": "Senior Barber",
+    "title": "Tukang Gunting Kanan",
     "location": "Ipoh, Malaysia",
-    "type": "Full-time",
-    "experience": "3+ years",
-    "description": "We're looking for an experienced barber to join our team. Must be skilled in classic cuts, fades, and beard trimming.",
+    "type": "Sepenuh masa",
+    "experience": "3+ tahun",
+    "description": "Kami mencari tukang gunting berpengalaman untuk menyertai pasukan kami. Mesti mahir dalam gunting klasik, fade, dan trim janggut.",
     "requirements": [
-      "Valid barber license",
-      "3+ years of experience",
-      "Excellent customer service skills",
-      "Knowledge of classic and modern techniques",
-      "Ability to work weekends"
+      "Lesen tukang gunting yang sah",
+      "3+ tahun pengalaman",
+      "Kemahiran perkhidmatan pelanggan yang cemerlang",
+      "Pengetahuan teknik klasik dan moden",
+      "Keupayaan bekerja hujung minggu"
     ],
     "benefits": [
-      "Competitive salary + tips",
-      "Health insurance",
-      "Paid vacation",
-      "Professional development opportunities",
-      "Commission-based earning potential"
+      "Gaji kompetitif + tip",
+      "Insurans kesihatan",
+      "Cuti bergaji",
+      "Peluang pembangunan profesional",
+      "Potensi pendapatan berasaskan komisi"
     ],
     "posted": "2024-01-15"
   },
   {
     "id": 2,
-    "title": "Junior Barber / Apprentice",
+    "title": "Tukang Gunting Junior / Perantis",
     "location": "Ipoh, Malaysia",
-    "type": "Full-time",
-    "experience": "Entry level",
-    "description": "Perfect opportunity for someone starting their barbering career or recent barber school graduate.",
+    "type": "Sepenuh masa",
+    "experience": "Peringkat permulaan",
+    "description": "Peluang sempurna untuk seseorang yang memulakan kerjaya tukang gunting atau graduan sekolah tukang gunting baru-baru ini.",
     "requirements": [
-      "Barber school certificate or apprentice permit",
-      "Eagerness to learn",
-      "Good communication skills",
-      "Professional appearance",
-      "Flexible schedule"
+      "Sijil sekolah tukang gunting atau permit perantis",
+      "Keinginan untuk belajar",
+      "Kemahiran komunikasi yang baik",
+      "Penampilan profesional",
+      "Jadual fleksibel"
     ],
     "benefits": [
-      "Training provided",
-      "Competitive starting salary",
-      "Tips",
-      "Growth opportunities",
-      "Mentorship program"
+      "Latihan disediakan",
+      "Gaji permulaan yang kompetitif",
+      "Tip",
+      "Peluang pertumbuhan",
+      "Program bimbingan"
     ],
     "posted": "2024-01-10"
   },
   {
     "id": 3,
-    "title": "Receptionist / Front Desk",
+    "title": "Penyambut Tetamu / Meja Depan",
     "location": "Ipoh, Malaysia",
-    "type": "Part-time",
-    "experience": "1+ years",
-    "description": "Friendly and organized individual to manage appointments, greet customers, and handle front desk operations.",
+    "type": "Separuh masa",
+    "experience": "1+ tahun",
+    "description": "Individu yang mesra dan teratur untuk menguruskan temujanji, menyambut pelanggan, dan mengendalikan operasi meja depan.",
     "requirements": [
-      "1+ year customer service experience",
-      "Strong communication skills",
-      "Computer literacy",
-      "Professional demeanor",
-      "Multitasking abilities"
+      "1+ tahun pengalaman perkhidmatan pelanggan",
+      "Kemahiran komunikasi yang kuat",
+      "Celik komputer",
+      "Sikap profesional",
+      "Keupayaan multitugas"
     ],
     "benefits": [
-      "Flexible hours",
-      "Competitive hourly rate",
-      "Employee discounts",
-      "Friendly work environment",
-      "Training provided"
+      "Waktu fleksibel",
+      "Kadar setiap jam yang kompetitif",
+      "Diskaun pekerja",
+      "Persekitaran kerja yang mesra",
+      "Latihan disediakan"
     ],
     "posted": "2024-01-05"
   }

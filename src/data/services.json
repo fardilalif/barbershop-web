@@ -1,56 +1,56 @@
 [
   {
     "id": 1,
-    "name": "Classic Haircut",
-    "description": "Traditional men's haircut with scissor work and styling. Includes wash and finish.",
+    "name": "Gunting Rambut Klasik",
+    "description": "Gunting rambut lelaki tradisional dengan kerja gunting dan penggayaan. Termasuk basuh dan kemasan.",
     "price": "RM35",
     "duration": "45 min",
     "image": "/images/classic-cut.jpg",
-    "category": "Haircuts"
+    "category": "Gunting Rambut"
   },
   {
     "id": 2,
-    "name": "Fade Cut",
-    "description": "Modern fade haircut with precision clipper work. Various fade styles available.",
+    "name": "Potongan Fade",
+    "description": "Potongan rambut fade moden dengan kerja clipper tepat. Pelbagai gaya fade tersedia.",
     "price": "RM40",
     "duration": "50 min",
     "image": "/images/fade-cut.jpg",
-    "category": "Haircuts"
+    "category": "Gunting Rambut"
   },
   {
     "id": 3,
-    "name": "Beard Trim & Shape",
-    "description": "Professional beard trimming and shaping to complement your face structure.",
+    "name": "Trim & Bentuk Janggut",
+    "description": "Trim janggut profesional dan pembentukan untuk melengkapkan struktur muka anda.",
     "price": "RM25",
     "duration": "30 min",
     "image": "/images/beard-trim.jpg",
-    "category": "Beard Services"
+    "category": "Perkhidmatan Janggut"
   },
   {
     "id": 4,
-    "name": "Hot Towel Shave",
-    "description": "Traditional straight razor shave with hot towel treatment. Ultimate relaxation.",
+    "name": "Cukur Tuala Panas",
+    "description": "Cukur pisau lurus tradisional dengan rawatan tuala panas. Santai sepenuhnya.",
     "price": "RM45",
     "duration": "60 min",
     "image": "/images/hot-shave.jpg",
-    "category": "Shaving"
+    "category": "Cukur"
   },
   {
     "id": 5,
-    "name": "Hair & Beard Combo",
-    "description": "Complete grooming package including haircut and beard trim.",
+    "name": "Kombo Rambut & Janggut",
+    "description": "Pakej dandanan lengkap termasuk gunting rambut dan trim janggut.",
     "price": "RM55",
     "duration": "75 min",
     "image": "/images/combo.jpg",
-    "category": "Packages"
+    "category": "Pakej"
   },
   {
     "id": 6,
-    "name": "Kids Haircut",
-    "description": "Gentle and fun haircut experience for children under 12.",
+    "name": "Gunting Rambut Kanak-kanak",
+    "description": "Pengalaman gunting rambut lembut dan menyeronokkan untuk kanak-kanak bawah 12 tahun.",
     "price": "RM25",
     "duration": "30 min",
     "image": "/images/kids-cut.jpg",
-    "category": "Haircuts"
+    "category": "Gunting Rambut"
   }
 ]

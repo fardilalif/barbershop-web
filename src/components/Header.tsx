@@ -1,38 +1,42 @@
-import { useState } from 'react'
-import { Link, useLocation } from 'react-router-dom'
-import { cn } from '@/lib/utils'
-import { Scissors, Menu, X } from 'lucide-react'
+import { useState } from "react";
+import { Link, useLocation } from "react-router-dom";
+import { cn } from "@/lib/utils";
+import { Scissors, Menu, X } from "lucide-react";
 
 const Header = () => {
-  const location = useLocation()
-  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
+  const location = useLocation();
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   const navigation = [
-    { name: 'Home', href: '/' },
-    { name: 'Services', href: '/services' },
-    { name: 'Products', href: '/products' },
-    { name: 'Jobs', href: '/jobs' },
-  ]
+    { name: "Utama", href: "/" },
+    { name: "Perkhidmatan", href: "/services" },
+    { name: "Produk", href: "/products" },
+    { name: "Kerja", href: "/jobs" },
+  ];
 
   const toggleMobileMenu = () => {
-    setIsMobileMenuOpen(!isMobileMenuOpen)
-  }
+    setIsMobileMenuOpen(!isMobileMenuOpen);
+  };
 
   const closeMobileMenu = () => {
-    setIsMobileMenuOpen(false)
-  }
+    setIsMobileMenuOpen(false);
+  };
 
   return (
     <header className="bg-black text-white shadow-sm">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 justify-between items-center">
           <div className="flex items-center">
-            <Link to="/" className="flex items-center space-x-2" onClick={closeMobileMenu}>
+            <Link
+              to="/"
+              className="flex items-center space-x-2"
+              onClick={closeMobileMenu}
+            >
               <Scissors className="h-8 w-8 text-white" />
-              <span className="text-xl font-bold">Amin Barbershop</span>
+              <span className="text-xl font-bold">Bob Barbershop</span>
             </Link>
           </div>
-          
+
           {/* Desktop Navigation */}
           <nav className="hidden md:flex space-x-8">
             {navigation.map((item) => (
@@ -40,10 +44,10 @@ const Header = () => {
                 key={item.name}
                 to={item.href}
                 className={cn(
-                  'text-sm font-medium transition-colors hover:text-gray-300',
+                  "text-sm font-medium transition-colors hover:text-gray-300",
                   location.pathname === item.href
-                    ? 'text-white border-b-2 border-white'
-                    : 'text-gray-300'
+                    ? "text-white border-b-2 border-white"
+                    : "text-gray-300"
                 )}
               >
                 {item.name}
@@ -53,7 +57,7 @@ const Header = () => {
 
           {/* Mobile menu button */}
           <div className="md:hidden">
-            <button 
+            <button
               onClick={toggleMobileMenu}
               className="text-gray-300 hover:text-white transition-colors"
               aria-label="Toggle mobile menu"
@@ -77,10 +81,10 @@ const Header = () => {
                   to={item.href}
                   onClick={closeMobileMenu}
                   className={cn(
-                    'block px-3 py-2 text-base font-medium transition-colors hover:text-gray-300 hover:bg-gray-800 rounded-md',
+                    "block px-3 py-2 text-base font-medium transition-colors hover:text-gray-300 hover:bg-gray-800 rounded-md",
                     location.pathname === item.href
-                      ? 'text-white bg-gray-800'
-                      : 'text-gray-300'
+                      ? "text-white bg-gray-800"
+                      : "text-gray-300"
                   )}
                 >
                   {item.name}
@@ -91,7 +95,7 @@ const Header = () => {
         )}
       </div>
     </header>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;
