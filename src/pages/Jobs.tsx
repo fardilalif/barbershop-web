@@ -176,7 +176,9 @@ const Jobs = () => {
             Tidak Nampak Peranan yang Sesuai?
           </h2>
           <p className="text-gray-600 mb-4">
-            Kami sentiasa mencari individu berbakat untuk menyertai pasukan kami. Jangan segan untuk menghubungi walaupun anda tidak nampak jawatan khusus yang sesuai dengan kemahiran anda.
+            Kami sentiasa mencari individu berbakat untuk menyertai pasukan
+            kami. Jangan segan untuk menghubungi walaupun anda tidak nampak
+            jawatan khusus yang sesuai dengan kemahiran anda.
           </p>
           <Button
             size="lg"

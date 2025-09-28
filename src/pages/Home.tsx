@@ -55,7 +55,8 @@ const Home = () => {
               </CardHeader>
               <CardContent>
                 <CardDescription className="text-center">
-                  Tukang gunting kami yang mahir mempunyai pengalaman bertahun-tahun dalam teknik gunting klasik dan moden.
+                  Tukang gunting kami yang mahir mempunyai pengalaman
+                  bertahun-tahun dalam teknik gunting klasik dan moden.
                 </CardDescription>
               </CardContent>
             </Card>
@@ -67,7 +68,8 @@ const Home = () => {
               </CardHeader>
               <CardContent>
                 <CardDescription className="text-center">
-                  Kami menyediakan perkhidmatan yang luar biasa dengan perhatian kepada perincian dan kepuasan pelanggan.
+                  Kami menyediakan perkhidmatan yang luar biasa dengan perhatian
+                  kepada perincian dan kepuasan pelanggan.
                 </CardDescription>
               </CardContent>
             </Card>
@@ -79,7 +81,8 @@ const Home = () => {
               </CardHeader>
               <CardContent>
                 <CardDescription className="text-center">
-                  Buka 7 hari seminggu dengan jadual fleksibel untuk sesuaikan gaya hidup sibuk anda.
+                  Buka 7 hari seminggu dengan jadual fleksibel untuk sesuaikan
+                  gaya hidup sibuk anda.
                 </CardDescription>
               </CardContent>
             </Card>

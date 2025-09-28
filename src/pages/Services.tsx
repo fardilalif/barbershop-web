@@ -124,7 +124,9 @@ const Services = () => {
 
         {filteredServices.length === 0 && (
           <div className="text-center py-12">
-            <p className="text-gray-500">Tiada perkhidmatan dijumpai dalam kategori ini.</p>
+            <p className="text-gray-500">
+              Tiada perkhidmatan dijumpai dalam kategori ini.
+            </p>
           </div>
         )}
 
@@ -134,7 +136,8 @@ const Services = () => {
             Bersedia untuk Buat Temujanji?
           </h2>
           <p className="text-gray-600 mb-4">
-            Hubungi kami melalui WhatsApp untuk menjadualkan temujanji anda. Kami akan memberitahu anda slot masa yang tersedia.
+            Hubungi kami melalui WhatsApp untuk menjadualkan temujanji anda.
+            Kami akan memberitahu anda slot masa yang tersedia.
           </p>
           <Button
             size="lg"
